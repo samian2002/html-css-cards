@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+}
+
+header{
+    margin-top: 50px;
+    text-align: center;
+    height: 200px;
+}
+
+.main-text{
+    text-align: center;
+    margin-top: 35px;
+
+}
+
+h1{
+    color: #e53170;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+
+.layout-cards{
+    background-color: #0f0e17;
+    display: inline;
+    color: rgb(156, 153, 153);
+    
+
+}
+
+
+.card-image{
+    float: left;
+    height: 100px;
+}
+
+.card-text-box{
+    display: inline-block;
+    top: 50%;
+    transform: translateY(-50%);
+    position: relative;
+    margin: 0px 10px 0px 10px;
+    
+}
+
+.card-name{
+    font-weight: bold;
+}
+.card-mail{
+    color: #5fc2eb;
+}
+
+.card-text-box>p{
+    margin: 10px;
+}
+
+.card-container:last-of-type{
+    margin-top: 50px;
+}
+
