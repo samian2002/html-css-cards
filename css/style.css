@@ -5,12 +5,13 @@
 header{
     margin-top: 50px;
     text-align: center;
-    height: 200px;
+    height: 150px;
 }
 
 .main-text{
-    text-align: center;
     margin-top: 35px;
+    margin-left: 18%;
+    margin-right: 18%;
 
 }
 
