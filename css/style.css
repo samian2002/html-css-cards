@@ -51,6 +51,11 @@ section{
 
 .card-name{
     font-weight: bold;
+    color: white;
+}
+
+.card-rule{
+    color: white;
 }
 .card-mail{
     color: #5fc2eb;
