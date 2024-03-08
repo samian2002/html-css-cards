@@ -21,7 +21,7 @@ h1{
 section{
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
 }
 
 
@@ -60,6 +60,10 @@ section{
 }
 
 .card-container:last-of-type{
+    margin-top: 50px;
+}
+
+.cards-conteiner-second{
     margin-top: 50px;
 }
 
