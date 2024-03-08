@@ -1,5 +1,6 @@
 *{
     margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header{
@@ -10,8 +11,8 @@ header{
 
 .main-text{
     margin-top: 35px;
-    margin-left: 18%;
-    margin-right: 18%;
+    margin-left: 16%;
+    margin-right: 16%;
 
 }
 
