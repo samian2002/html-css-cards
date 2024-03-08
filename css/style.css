@@ -47,6 +47,8 @@ section{
     transform: translateY(-50%);
     position: relative;
     margin: 0px 10px 0px 10px;
+    height: 100px;
+    width: 200px;
     
 }
 
